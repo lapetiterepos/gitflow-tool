@@ -1,0 +1,5 @@
+#!/usr/bin/env python3
+import fire
+from app import cli
+
+fire.Fire(cli.Cli())

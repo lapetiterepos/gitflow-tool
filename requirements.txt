@@ -1,0 +1,11 @@
+certifi==2024.2.2
+charset-normalizer==3.3.2
+idna==3.7
+packaging==24.0
+python-gitlab==4.4.0
+requests==2.31.0
+requests-toolbelt==1.0.0
+urllib3==2.2.1
+fire~=0.6.0
+semver~=3.0.2
+python-dotenv~=1.0.1
